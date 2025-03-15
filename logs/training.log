@@ -203,3 +203,34 @@ Image export using the "kaleido" engine requires the kaleido package,
 which can be installed using pip:
     $ pip install -U kaleido
 
+2025-03-15 14:57:34,531 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:34,536 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:35,063 - INFO - Pipeline эхэлж байна...
+2025-03-15 14:57:35,063 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 14:57:35,087 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 14:57:35,087 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 14:57:35,114 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-15 14:57:35,118 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-15 14:57:35,118 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 14:57:35,741 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 14:57:35,742 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 14:57:35,795 - INFO - Загварын нарийвчлал: 0.79
+2025-03-15 14:57:35,799 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.82      0.89      0.86      1018
+           1       0.65      0.50      0.56       391
+
+    accuracy                           0.79      1409
+   macro avg       0.74      0.70      0.71      1409
+weighted avg       0.77      0.79      0.78      1409
+
+2025-03-15 14:57:35,926 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:35,931 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:35,976 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:35,985 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:57:36,727 - ERROR - Pipeline алдаа гарлаа: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+

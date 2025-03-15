@@ -67,3 +67,14 @@ Image export using the "kaleido" engine requires the kaleido package,
 which can be installed using pip:
     $ pip install -U kaleido
 
+2025-03-15 14:57:35,063 - INFO - Pipeline эхэлж байна...
+2025-03-15 14:57:35,063 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 14:57:35,087 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 14:57:35,087 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 14:57:35,114 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-15 14:57:35,118 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-15 14:57:36,727 - ERROR - Pipeline алдаа гарлаа: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
