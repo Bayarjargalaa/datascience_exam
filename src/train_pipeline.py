@@ -5,6 +5,7 @@ from feature_engineering import encode_categorical_columns
 from model import train_model
 from evaluate import evaluate_model
 from generate_all_reports import generate_reports 
+from pipeline_networkx import draw_pipeline
 
 from sklearn.model_selection import train_test_split
 
@@ -30,6 +31,9 @@ try:
 
     # Загвар үнэлэх
     evaluate_model(X_test, y_test)
+    
+    # Pipeline зураг үүсгэх
+    draw_pipeline()
 
     # Тайлан үүсгэх
     generate_reports()
