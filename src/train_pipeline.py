@@ -6,6 +6,7 @@ from model import train_model
 from evaluate import evaluate_model
 from generate_all_reports import generate_reports 
 from pipeline_networkx import draw_pipeline
+from visualization import generate_visualizations
 
 from sklearn.model_selection import train_test_split
 
@@ -34,6 +35,9 @@ try:
     
     # Pipeline зураг үүсгэх
     draw_pipeline()
+    
+    # Дүрслэлүүдийг үүсгэх
+    generate_visualizations()
 
     # Тайлан үүсгэх
     generate_reports()

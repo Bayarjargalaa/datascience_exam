@@ -141,3 +141,65 @@ weighted avg       0.79      0.80      0.79      1409
 
 2025-03-15 13:54:48,894 - INFO - Тайлан амжилттай үүсгэгдлээ.
 2025-03-15 13:54:48,894 - INFO - Pipeline амжилттай дууслаа.
+2025-03-15 14:33:59,361 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:33:59,367 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:34:00,136 - INFO - Pipeline эхэлж байна...
+2025-03-15 14:34:00,136 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 14:34:00,152 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 14:34:00,152 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 14:34:00,174 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-15 14:34:00,177 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-15 14:34:00,177 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 14:34:00,604 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 14:34:00,606 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 14:34:00,648 - INFO - Загварын нарийвчлал: 0.82
+2025-03-15 14:34:00,651 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.84      0.92      0.88      1055
+           1       0.69      0.49      0.57       354
+
+    accuracy                           0.82      1409
+   macro avg       0.76      0.71      0.73      1409
+weighted avg       0.80      0.82      0.80      1409
+
+2025-03-15 14:34:00,778 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:34:00,827 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:34:00,868 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:34:00,873 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:34:02,604 - ERROR - Pipeline алдаа гарлаа: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-03-15 14:35:28,056 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:28,061 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:28,569 - INFO - Pipeline эхэлж байна...
+2025-03-15 14:35:28,569 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 14:35:28,583 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 14:35:28,583 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 14:35:28,604 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-15 14:35:28,606 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-15 14:35:28,606 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 14:35:29,036 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 14:35:29,037 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 14:35:29,073 - INFO - Загварын нарийвчлал: 0.79
+2025-03-15 14:35:29,075 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.83      0.90      0.86      1030
+           1       0.65      0.49      0.56       379
+
+    accuracy                           0.79      1409
+   macro avg       0.74      0.70      0.71      1409
+weighted avg       0.78      0.79      0.78      1409
+
+2025-03-15 14:35:29,214 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:29,218 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:29,252 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:29,256 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 14:35:29,910 - ERROR - Pipeline алдаа гарлаа: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
