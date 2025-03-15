@@ -1,0 +1,19 @@
+data:
+  raw_path: "data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv"
+  processed_path: "data/processed/processed_data.csv"
+
+preprocessing:
+  fill_missing: "median"
+  remove_duplicates: true
+  categorical_encoding: "label"
+
+model:
+  type: "random_forest"
+  hyperparameters:
+    n_estimators: 100
+    max_depth: 10
+  random_state: 42
+
+logs:
+  training_log: "logs/training.log"
+  error_log: "logs/errors.log"

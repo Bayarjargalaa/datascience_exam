@@ -1,0 +1,71 @@
+2025-03-15 10:57:57,130 - INFO - Pipeline эхэлж байна...
+2025-03-15 10:57:57,130 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 10:57:57,143 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 10:57:57,143 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 10:57:57,162 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-15 10:57:57,164 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-15 10:57:57,164 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 10:57:57,568 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 10:57:57,568 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 10:57:57,610 - INFO - Загварын нарийвчлал: 0.79
+2025-03-15 10:57:57,613 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.82      0.91      0.86      1035
+           1       0.64      0.45      0.53       374
+
+    accuracy                           0.79      1409
+   macro avg       0.73      0.68      0.70      1409
+weighted avg       0.77      0.79      0.77      1409
+
+2025-03-15 10:57:57,614 - INFO - Pipeline амжилттай дууслаа.
+2025-03-15 11:11:40,911 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:11:40,944 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:12:40,130 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:12:40,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:12:40,446 - INFO - Pipeline эхэлж байна...
+2025-03-15 11:12:40,446 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 11:12:40,460 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 11:12:40,460 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 11:12:40,488 - INFO - ✅ Категори өгөгдлийг хувиргалаа.
+2025-03-15 11:12:40,490 - INFO - ✅ Өгөгдөл хуваах амжилттай.
+2025-03-15 11:12:40,490 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 11:12:40,894 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 11:12:40,895 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 11:12:40,930 - INFO - Загварын нарийвчлал: 0.78
+2025-03-15 11:12:40,932 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.82      0.90      0.86      1028
+           1       0.63      0.46      0.53       381
+
+    accuracy                           0.78      1409
+   macro avg       0.72      0.68      0.70      1409
+weighted avg       0.77      0.78      0.77      1409
+
+2025-03-15 11:12:40,934 - INFO - ✅ Тайлан амжилттай үүсгэгдлээ.
+2025-03-15 11:12:40,934 - INFO - ✅ Pipeline амжилттай дууслаа.
+2025-03-15 11:27:41,316 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:27:41,321 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 11:27:41,620 - INFO - Pipeline эхэлж байна...
+2025-03-15 11:27:41,620 - INFO - Өгөгдөл ачаалж байна...
+2025-03-15 11:27:41,634 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-15 11:27:41,634 - INFO - Өгөгдөл ачааллаа.
+2025-03-15 11:27:41,655 - INFO - ✅ Категори өгөгдлийг хувиргалаа.
+2025-03-15 11:27:41,657 - INFO - ✅ Өгөгдөл хуваах амжилттай.
+2025-03-15 11:27:41,657 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-15 11:27:42,045 - INFO - Загвар амжилттай сурлаа.
+2025-03-15 11:27:42,046 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-15 11:27:42,080 - INFO - Загварын нарийвчлал: 0.80
+2025-03-15 11:27:42,082 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.84      0.89      0.87      1049
+           1       0.62      0.51      0.56       360
+
+    accuracy                           0.80      1409
+   macro avg       0.73      0.70      0.71      1409
+weighted avg       0.79      0.80      0.79      1409
+
+2025-03-15 11:27:42,084 - INFO - ✅ Тайлан амжилттай үүсгэгдлээ.
+2025-03-15 11:27:42,084 - INFO - ✅ Pipeline амжилттай дууслаа.
