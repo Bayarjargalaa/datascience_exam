@@ -3,6 +3,11 @@ import seaborn as sns
 import pandas as pd
 import joblib
 from sklearn.metrics import confusion_matrix
+import os
+
+# 📂 Хавтас байхгүй бол автоматаар үүсгэх
+FIGURE_PATH = "reports/figures/"
+os.makedirs(FIGURE_PATH, exist_ok=True)
 
 # Өгөгдөл унших
 df = pd.read_csv("data/processed/engineered_data.csv")
