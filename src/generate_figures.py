@@ -5,7 +5,7 @@ import joblib
 from sklearn.metrics import confusion_matrix
 import os
 
-# 📂 Хавтас байхгүй бол автоматаар үүсгэх
+# Хавтас байхгүй бол автоматаар үүсгэх
 FIGURE_PATH = "reports/figures/"
 os.makedirs(FIGURE_PATH, exist_ok=True)
 

@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 def evaluate_model(X_test, y_test):
     """Загварын гүйцэтгэлийг шалгах"""
     try:
-        training_logger.info("🔵 Загварын үнэлгээ эхэлж байна...")
+        training_logger.info("Загварын үнэлгээ эхэлж байна...")
         
         # Загвар унших
         model = joblib.load("models/random_forest.pkl")
