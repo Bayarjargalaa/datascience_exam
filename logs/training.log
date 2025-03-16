@@ -234,3 +234,31 @@ Image export using the "kaleido" engine requires the kaleido package,
 which can be installed using pip:
     $ pip install -U kaleido
 
+2025-03-16 09:24:51,715 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:51,722 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:52,952 - INFO - Pipeline эхэлж байна...
+2025-03-16 09:24:52,952 - INFO - Өгөгдөл ачаалж байна...
+2025-03-16 09:24:52,976 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-16 09:24:52,976 - INFO - Өгөгдөл ачааллаа.
+2025-03-16 09:24:53,017 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-16 09:24:53,029 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-16 09:24:53,029 - INFO - 🔵 Загварын сургалт эхэллээ...
+2025-03-16 09:24:53,689 - INFO - Загвар амжилттай сурлаа.
+2025-03-16 09:24:53,691 - INFO - 🔵 Загварын үнэлгээ эхэлж байна...
+2025-03-16 09:24:53,761 - INFO - Загварын нарийвчлал: 0.79
+2025-03-16 09:24:53,766 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.82      0.92      0.87      1029
+           1       0.67      0.46      0.55       380
+
+    accuracy                           0.79      1409
+   macro avg       0.75      0.69      0.71      1409
+weighted avg       0.78      0.79      0.78      1409
+
+2025-03-16 09:24:54,291 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:54,298 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:54,435 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:54,442 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 09:24:57,635 - INFO - Тайлан амжилттай үүсгэгдлээ.
+2025-03-16 09:24:57,635 - INFO - Pipeline амжилттай дууслаа.
