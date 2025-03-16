@@ -266,3 +266,96 @@ weighted avg       0.78      0.79      0.78      1409
 2025-03-16 10:02:49,008 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-03-16 10:08:34,269 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-03-16 10:08:34,276 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:20:18,890 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:20:18,899 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:23:55,650 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:23:55,656 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:27:34,146 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:27:34,154 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:54,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:54,124 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:55,341 - INFO - Pipeline эхэлж байна...
+2025-03-16 10:29:55,341 - INFO - Өгөгдөл ачаалж байна...
+2025-03-16 10:29:55,372 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-16 10:29:55,372 - INFO - Өгөгдөл ачааллаа.
+2025-03-16 10:29:55,413 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-16 10:29:55,419 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-16 10:29:55,419 - INFO - Загварын сургалт эхэллээ...
+2025-03-16 10:29:56,094 - INFO - Загварын үнэлгээ эхэлж байна...
+2025-03-16 10:29:56,168 - INFO - Загварын нарийвчлал: 0.79
+2025-03-16 10:29:56,173 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.83      0.90      0.86      1034
+           1       0.63      0.48      0.54       375
+
+    accuracy                           0.79      1409
+   macro avg       0.73      0.69      0.70      1409
+weighted avg       0.77      0.79      0.78      1409
+
+2025-03-16 10:29:56,642 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:56,650 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:56,792 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:29:56,799 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:30:00,105 - INFO - Тайлан амжилттай үүсгэгдлээ.
+2025-03-16 10:30:00,105 - INFO - Pipeline амжилттай дууслаа.
+2025-03-16 10:30:24,086 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:30:24,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:31:43,724 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:31:43,730 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:37:00,874 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:37:00,882 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:13,150 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:13,159 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:14,351 - INFO - Pipeline эхэлж байна...
+2025-03-16 10:39:14,351 - INFO - Өгөгдөл ачаалж байна...
+2025-03-16 10:39:14,374 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-16 10:39:14,374 - INFO - Өгөгдөл ачааллаа.
+2025-03-16 10:39:14,415 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-16 10:39:14,419 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-16 10:39:14,419 - INFO - Загварын сургалт эхэллээ...
+2025-03-16 10:39:15,110 - INFO - Загварын үнэлгээ эхэлж байна...
+2025-03-16 10:39:15,201 - INFO - Загварын нарийвчлал: 0.80
+2025-03-16 10:39:15,210 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.84      0.90      0.87      1045
+           1       0.64      0.51      0.57       364
+
+    accuracy                           0.80      1409
+   macro avg       0.74      0.71      0.72      1409
+weighted avg       0.79      0.80      0.79      1409
+
+2025-03-16 10:39:15,681 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:15,725 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:15,875 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:15,882 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:39:19,067 - INFO - Тайлан амжилттай үүсгэгдлээ.
+2025-03-16 10:39:19,067 - INFO - Pipeline амжилттай дууслаа.
+2025-03-16 10:41:48,220 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:48,228 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:49,312 - INFO - Pipeline эхэлж байна...
+2025-03-16 10:41:49,312 - INFO - Өгөгдөл ачаалж байна...
+2025-03-16 10:41:49,334 - INFO - Өгөгдөл амжилттай ачаалагдлаа.
+2025-03-16 10:41:49,334 - INFO - Өгөгдөл ачааллаа.
+2025-03-16 10:41:49,373 - INFO - Категори өгөгдлийг хувиргалаа.
+2025-03-16 10:41:49,377 - INFO - Өгөгдөл хуваах амжилттай.
+2025-03-16 10:41:49,378 - INFO - Загварын сургалт эхэллээ...
+2025-03-16 10:41:50,047 - INFO - Загварын үнэлгээ эхэлж байна...
+2025-03-16 10:41:50,120 - INFO - Загварын нарийвчлал: 0.77
+2025-03-16 10:41:50,125 - INFO - Загварын тайлан: 
+              precision    recall  f1-score   support
+
+           0       0.81      0.90      0.85      1017
+           1       0.63      0.45      0.53       392
+
+    accuracy                           0.77      1409
+   macro avg       0.72      0.68      0.69      1409
+weighted avg       0.76      0.77      0.76      1409
+
+2025-03-16 10:41:50,564 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:50,571 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:50,705 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:50,712 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 10:41:53,887 - INFO - Тайлан амжилттай үүсгэгдлээ.
+2025-03-16 10:41:53,887 - INFO - Pipeline амжилттай дууслаа.

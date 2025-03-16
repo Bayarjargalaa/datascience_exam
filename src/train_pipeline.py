@@ -33,6 +33,8 @@ try:
     # Загвар үнэлэх
     evaluate_model(X_test, y_test)
     
+    
+    
     # Pipeline зураг үүсгэх
     draw_pipeline()
     
